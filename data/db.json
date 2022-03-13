@@ -1,0 +1,48 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Maria Silva",
+      "active": true,
+      "role": 1
+    },
+    {
+      "name": "João da Silva",
+      "active": true,
+      "role": 2,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "José Silva",
+      "active": true,
+      "role": 3
+    },
+    {
+      "name": "Ana da Silva",
+      "active": true,
+      "role": 2,
+      "id": 4
+    },
+    {
+      "name": "Roberto Alonso",
+      "active": true,
+      "role": 2,
+      "id": 5
+    }
+  ],
+  "roles": [
+    {
+      "id": 1,
+      "type": "CEO"
+    },
+    {
+      "id": 2,
+      "type": "CTO"
+    },
+    {
+      "id": 3,
+      "type": "CIO"
+    }
+  ]
+}
